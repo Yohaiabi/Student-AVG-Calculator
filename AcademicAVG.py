@@ -1,5 +1,5 @@
 def avg():
-    courses = []
+    coursee = []
     grades_sum = 0
     total_credits = 0
 
